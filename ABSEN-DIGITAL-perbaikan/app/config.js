@@ -13,6 +13,6 @@
 // JANGAN PERNAH menaruh service_role key / secret key (sb_secret_...) di sini.
 // =====================================================================
 window.__ABSEN_DIGITAL_ENV__ = {
-  NEXT_PUBLIC_SUPABASE_URL: '',
-  NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY: '',
+  NEXT_PUBLIC_SUPABASE_URL: 'https://dxttdhlntusewtuyicgu.supabase.co',
+  NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY: 'sb_publishable_1Lw-r1Ads58FUXqAtb8SRQ_EMWp6_BX',
 };
